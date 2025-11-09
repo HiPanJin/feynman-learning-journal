@@ -1,1 +1,4 @@
+# macOS
 .DS_Store
+# Obsidian：默认不纳入版本控制
+.obsidian/
